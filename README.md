@@ -5,7 +5,6 @@
 
 - ***I'm doing a BSc in CSE at a well-known university in Bangladesh***
 - ***I am basically a Software Engineer***
-- ***Learner***
 - ***It has always been my Passion to learn new things***
 - ***Explore new ideas and thoughts and emphasized on self-development***
 - ***It has always been my focus on every available opportunity to improve myself skills.***
