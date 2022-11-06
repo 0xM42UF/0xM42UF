@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hello, I'M GAZI MARUF RAHMAN !
 
-<!--
-**0xM42UF/0xM42UF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=0xM42UF&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ***I'm doing a BSc in CSE at a well-known university in Bangladesh***
+- ***I am basically a Software Engineer***
+- ***Learner***
+- ***It has always been my Passion to learn new things***
+- ***Explore new ideas and thoughts and emphasized on self-development***
+- ***It has always been my focus on every available opportunity to improve myself skills.***
+- ***I want to pursue my goals with dedication, sincerity, honesty and hard work.***
+
+
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xM42UF&hide=html,css,php,javascript,scss&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+
+
+- I'm doing BSc degree in Computer Science & Engineering (CSE) from University of Global Village [(UGV)](https://ugv.edu.bd/)
+- Currently working in software engineering.
+
+
+**To know more:**  [Portfolio](https://0xm42uf.me/),[LinkedIn](https://www.linkedin.com/in/gazi-maruf-rahman-a357b31a5/), [Email](mailto:telapokaworld@gmail.com), [Github](https://github.com/0xM42UF), [YouTube](https://www.youtube.com/channel/0xM42UF)
+<br/>
+
+Check the repositories section to see my efforts! Hope, you will enjoy it!
+<br/>
+
+
+<p><img align='right' src="https://komarev.com/ghpvc/?username=0xM42UF" alt="GAZI MARUF RAHMAN" /> </p>
