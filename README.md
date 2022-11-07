@@ -14,11 +14,11 @@
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xM42UF&hide=html,css,php,javascript,scss&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 
 
-- I'm doing BSc degree in Computer Science & Engineering (CSE) from University of Global Village [(UGV)](https://ugv.edu.bd/)
+- I'm doing BSc degree in Computer Science & Engineering (CSE) from University of Global Village [(UGV)](https://ugv.edu.bd)
 - Currently working in software engineering.
 
 
-**To know more:**  [Portfolio](https://0xm42uf.me/),[LinkedIn](https://www.linkedin.com/in/gazi-maruf-rahman-a357b31a5/), [Email](mailto:telapokaworld@gmail.com), [Github](https://github.com/0xM42UF), [YouTube](https://www.youtube.com/channel/0xM42UF)
+**To know more:**  [Portfolio](https://0xm42uf.me), [LinkedIn](https://www.linkedin.com/in/gazi-maruf-rahman-a357b31a5), [Email](mailto:telapokaworld@gmail.com), [Github](https://github.com/0xM42UF), [YouTube](https://www.youtube.com/channel/0xM42UF)
 <br/>
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
