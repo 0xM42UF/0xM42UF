@@ -1,10 +1,11 @@
+
 ## Hello, I'M GAZI MARUF RAHMAN !
 
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=0xM42UF&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
 
 
 - ***I'm doing a BSc in CSE at a well-known university in Bangladesh***
-- ***I am basically a Software Engineer***
+
 - ***It has always been my Passion to learn new things***
 - ***Explore new ideas and thoughts and emphasized on self-development***
 - ***It has always been my focus on every available opportunity to improve myself skills.***
@@ -23,6 +24,19 @@
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 <br/>
+
+
+
+## I'm a Learner, Problem Solver && Developer.
+
+- 2023 Goals: To Solve 1000+ problems and participate ICPC Dhaka Regional. 
+- 2024 Goals: To become codeforces pupil and solve 2000+ problems.
+- 2025 Goals: To become codeforces specialist, learn and get a job.
+- 2026 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
+- 2027 Goals: To bring love of my life home (Preparation going on...)
+
+
+
 
 
 <p><img align='right' src="https://komarev.com/ghpvc/?username=0xM42UF" alt="GAZI MARUF RAHMAN" /> </p>
