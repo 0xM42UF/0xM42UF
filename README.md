@@ -4,12 +4,12 @@
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=0xM42UF&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
 
 
-- ***I'm doing a BSc in CSE at a well-known university in Bangladesh***
+- I'm doing a BSc in CSE at a well-known university in Bangladesh.
 
-- ***It has always been my Passion to learn new things***
-- ***Explore new ideas and thoughts and emphasized on self-development***
-- ***It has always been my focus on every available opportunity to improve myself skills.***
-- ***I want to pursue my goals with dedication, sincerity, honesty and hard work.***
+- It has always been my Passion to learn new things.
+- Explore new ideas and thoughts and emphasized on self-development.
+- It has always been my focus on every available opportunity to improve myself skills.
+- I want to pursue my goals with dedication, sincerity, honesty and hard work.
 
 
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xM42UF&hide=html,css,php,javascript,scss&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
