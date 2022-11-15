@@ -33,7 +33,7 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 - 2024 Goals: To become codeforces pupil and solve 2000+ problems.
 - 2025 Goals: To become codeforces specialist, learn and get a job.
 - 2026 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
-- 2027 Goals: To bring love of my life home (Preparation going on...)
+- 2027 Goals: To bring love of my life home.
 
 
 
