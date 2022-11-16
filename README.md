@@ -20,7 +20,7 @@
 - Currently working in software engineering.
 
 
-**To know more:**  [Portfolio](https://0xm42uf.me), [LinkedIn](https://www.linkedin.com/in/gazi-maruf-rahman-a357b31a5), [Email](mailto:telapokaworld@gmail.com), [Github](https://github.com/0xM42UF), [YouTube](https://www.youtube.com/channel/0xM42UF)
+**To know more:**  [Portfolio](https://0xm42uf.me), [LinkedIn](https://www.linkedin.com/in/gazi-maruf-rahman-a357b31a5), [Email](mailto:gazimarufrahman01@gmail.com), [Github](https://github.com/0xM42UF), [YouTube](https://www.youtube.com/channel/0xM42UF)
 <br/>
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
