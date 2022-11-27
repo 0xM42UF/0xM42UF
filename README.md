@@ -40,4 +40,19 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 
 
 
+
+
+
+<p align="#">
+    <a href="https://github.com/0xM42UF/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gazi Maruf Rahman streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0xM42UF&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+</p>
+
+
+
+
+
 <p><img align='right' src="https://komarev.com/ghpvc/?username=0xM42UF" alt="GAZI MARUF RAHMAN" /> </p>
+
+
+
