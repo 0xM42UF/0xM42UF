@@ -20,8 +20,8 @@
 - Currently working in software engineering.
 
 
-**To know more:**  [Portfolio](https://0xm42uf.me)      [LinkedIn](https://www.linkedin.com/in/gazi-maruf-rahman)     [Email](mailto:gazimarufrahman01@gmail.com)     [Github](https://github.com/0xM42UF)      [YouTube](https://www.youtube.com/channel/0xM42UF)
-<br/>
+**To know more:**  [Portfolio](https://0xm42uf.me)         [LinkedIn](https://www.linkedin.com/in/gazi-maruf-rahman)         [Email](mailto:gazimarufrahman01@gmail.com)        [Github](https://github.com/0xM42UF)      [YouTube](https://www.youtube.com/channel/0xM42UF)           [Medium](https://medium.com/@0xM42UF)               [CodeForces](https://codeforces.com/profile/Gazi_Maruf_Rahman)  
+<br/> 
 
 Check the repositories section to see my efforts! Hope, you will enjoy it!
 <br/>
