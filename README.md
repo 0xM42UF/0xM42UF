@@ -33,10 +33,10 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 
 ## I'm a Learner, Problem Solver && Developer.
 
-- 🥅 2023 Goals: To Solve 1000+ problems and participate ICPC Dhaka Regional. 
-- 🥅 2024 Goals: To become codeforces pupil and solve 2000+ problems.
+- 🥅 2023 Goals: To Solve 100+ problems. 
+- 🥅 2024 Goals: To become codeforces pupil and solve 500+ problems and participate ICPC Dhaka Regional.
 - 🥅 2025 Goals: To become codeforces specialist and get a job.
-- 🥅 2026 Goals: To crack tech giant (MAANG crack as a Software Engineer)
+- 🥅 2026 Goals: To crack tech giant (MAANG crack as a Software Engineer).
 - 🥅 2027 Goals: To bring love of my life home.
 
 
