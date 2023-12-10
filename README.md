@@ -31,13 +31,13 @@ Check the repositories section to see my efforts! Hope, you will enjoy it!
 
 
 
-## I'm a Learner, Problem Solver && Developer.
+## I'm a Learner, UI/UX Designer && Developer.
 
-- 🥅 2023 Goals: To Solve 100+ problems. 
-- 🥅 2024 Goals: To become codeforces pupil and solve 500+ problems and participate ICPC Dhaka Regional.
-- 🥅 2025 Goals: To become codeforces specialist and get a job.
+- 🥅 2024 Goals: To Create 1000 Projects. 
+- 🥅 2024 Goals: To Create UI/UX and Web Devloper 1000+ Projects.
+- 🥅 2025 Goals: To become UI/UX specialist and get a job.
 - 🥅 2026 Goals: To crack tech giant (MAANG crack as a Software Engineer).
-- 🥅 2027 Goals: To bring love of my life home.
+- 🥅 2026 Goals: To bring love of my life home.
 
 
 
